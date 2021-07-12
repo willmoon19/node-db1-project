@@ -6,7 +6,7 @@
 - Writing Basic SQL Queries
 - Writing Basic Queries using Knex.js
 
-## Instructions
+## Instructionsa
 
 ### Task 1: Project Setup
 
